@@ -1,2 +1,2 @@
-# Area-of-a-rectangle
-finding the area of a rectangle using c functions
+# Finding area of shapes
+finding the area of a shapes using c functions
