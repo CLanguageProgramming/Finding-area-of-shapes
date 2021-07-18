@@ -4,7 +4,6 @@ int areaofsquare();
 int main()
 {
     int s;
-    //int bred;
     char unit;
     int area;
     printf("Enter the side of the Square >>");
