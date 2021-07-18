@@ -8,8 +8,6 @@ int main()
     int area;
     printf("Enter the side of the Square >>");
     scanf("%d", &s);
-    /*printf("Enter the Bredth of the Rectangle >>");
-    scanf("%d", &bred);*/
     getchar();
     printf("Enter the Unit of measurement >>");
     scanf("%c", &unit);
